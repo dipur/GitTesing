@@ -5,3 +5,5 @@ echo "Third change in file in repo.";
 echo "Forth change in file in repo.";
 echo "Fifth change in file in repo.";
 echo "Seventh change in file in repo.";
+echo "Eight change in file in repo.";
+echo "Ninth change in file in repo.";
